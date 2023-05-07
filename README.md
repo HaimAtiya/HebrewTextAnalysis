@@ -12,7 +12,7 @@ Holon Institute of Technology
 ## Presented by:
 
 - [@Haim Atiya](https://github.com/HaimAtiya)
-- [@Ido Peer]()
+- [@Ido Peer](https://github.com/IdoPeeR)
 
 
 ##  Models in use
